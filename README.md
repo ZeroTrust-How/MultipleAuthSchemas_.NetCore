@@ -1,0 +1,1 @@
+# MultipleAuthSchemas_.NetCore
